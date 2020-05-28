@@ -16,7 +16,7 @@
     "aurelia-validation": "^2.0.0-rc1",
     "bluebird": "^3.4.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "nprogress": "^0.2.0",
     "requirejs": "^2.3.2",
     "sweetalert": "^2.1.2",
